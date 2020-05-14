@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/corinnapan.github.io/static/css/main.eafd669b.chunk.css",
+    "main.js": "/corinnapan.github.io/static/js/main.07e1566c.chunk.js",
+    "main.js.map": "/corinnapan.github.io/static/js/main.07e1566c.chunk.js.map",
+    "runtime-main.js": "/corinnapan.github.io/static/js/runtime-main.b5371038.js",
+    "runtime-main.js.map": "/corinnapan.github.io/static/js/runtime-main.b5371038.js.map",
+    "static/js/2.b8159f8a.chunk.js": "/corinnapan.github.io/static/js/2.b8159f8a.chunk.js",
+    "static/js/2.b8159f8a.chunk.js.map": "/corinnapan.github.io/static/js/2.b8159f8a.chunk.js.map",
+    "index.html": "/corinnapan.github.io/index.html",
+    "precache-manifest.4bdd00c6295a118d33ecdad8517460b0.js": "/corinnapan.github.io/precache-manifest.4bdd00c6295a118d33ecdad8517460b0.js",
+    "service-worker.js": "/corinnapan.github.io/service-worker.js",
+    "static/css/main.eafd669b.chunk.css.map": "/corinnapan.github.io/static/css/main.eafd669b.chunk.css.map",
+    "static/js/2.b8159f8a.chunk.js.LICENSE.txt": "/corinnapan.github.io/static/js/2.b8159f8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5371038.js",
+    "static/js/2.b8159f8a.chunk.js",
+    "static/css/main.eafd669b.chunk.css",
+    "static/js/main.07e1566c.chunk.js"
+  ]
+}
