@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Questrial&family=Source+Serif+Pro:wght@700&display=swap");
+
+@import url('https://fonts.googleapis.com/css?family=Assistant&display=swap');
+
 .App {
   text-align: center;
 }
@@ -36,3 +40,75 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width: 15em;
+  border:0.2em solid lightpink;
+  border-radius:30px;
+}
+
+.navigation{
+  display:flex;
+  justify-content:space-around;
+  border-bottom: 0.1em solid black;
+  padding:0.5em;
+  
+}
+
+.navigation a{
+  text-decoration:none;
+  color:black;
+  font-size: 1.25em;
+}
+
+.navigation a:hover{
+  color:pink;
+}
+
+.contact-links{
+  display:flex;
+  flex-direction:column;
+}
+
+.intro{
+font-family: "Manrope", sans-serif;
+font-size: 4em;
+}
+
+.intro-container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+}
+
+/* container for the links */
+.routes{ 
+  /* display:flex;
+  justify-content: flex-end; */
+}
+
+.about-me{
+  font-size: 1.5em;
+  font-family: 'Assistant', sans-serif;
+}
+
+.description-image{
+  display:flex;
+  justify-content:space-around;
+}
+
+.description{
+  width:60%;
+  text-align:left;
+}
+
+.project{
+  margin-top:10px;
+  margin-bottom:10px;
+  
+}
+
+
+
+
